@@ -3,7 +3,7 @@
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosMob&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMob&hide_progress=demo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMob&layout=compact)
 
 
 # Redes Sociais <br>
